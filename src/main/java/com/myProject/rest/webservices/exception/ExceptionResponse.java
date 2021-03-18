@@ -1,7 +1,7 @@
 package com.myProject.rest.webservices.exception;
 
 import java.util.Date;
-
+//Custom Exception class
 public class ExceptionResponse {
 	
 	private Date timeStamp;
